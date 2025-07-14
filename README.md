@@ -23,10 +23,12 @@ I am currently working on an EPQ about the impacts of AI on the younger generati
 Previous projects:
   Animonopoly -https://github.com/BHASVIC-ryancheung24/animalshared
     This was a group project based on a modified version of Monopoly, this game helped me understand working in a group better and the collaberation that comes with it 
+    
   Hotel Kashique
     This was another group project which introduced me to the basics of C and working in a group
 
-    
+Java
+  I completed a Java course with BHASVIC this helped me understand the fundamentals of OOP which is an important pillar of computer science and programming as a whole. This understanding has made me more confident in working in a mkre professional environment.
 
 
 
