@@ -15,6 +15,10 @@ Current Projects:
   Coursework Game
     I am currently working on my ALevel course work, for this project I have decided to make a game centred around managing a restaurant. This 
   Learning Unity
+  
+EPQ
+I am currently working on an EPQ about the impacts of AI on the younger generations. This research will help me understand the new technologies entering our world and its impacts, positives and consequences. This will help me have better footing and understanding when entering the tech world.
+
 
 Previous projects:
   Animonopoly -https://github.com/BHASVIC-ryancheung24/animalshared
