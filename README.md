@@ -5,30 +5,33 @@ Maths
 Geography
 
 Professional Goals:
-I aspire to work in a large tech company such as Google or Microsoft. However, being realistic, I just want to be involved in the tech industry and 
+I aspire to work in a large tech company such as Google or Microsoft. However, being realistic, I just want to be involved in the tech industry and work in and on the newest technology. I believe that technology should ultimately be used to better society and so my goal is to work in a field that supports that. I am intrigued in fields such as Cyber security as protecting services and people online is a constant issue and protecting people will ultimately benifit society as a whole.One way I am working towards this goal is my EPQ which I have explained below.
   
 
 The Future:
-  After completing my A-Levels I hope to attend university completing a course in Computer Science. With my degree I hope to get a good and stable job that is fun and also brings in a comfertable income.
+  After completing my A-Levels I hope to attend university completing a course in Computer Science. With my degree I hope to get a good and stable job that is fun and also brings in a comfertable income. Some of my dream universities include:Exeter and Sussex
 
 Current Projects:
   Coursework Game
-    I am currently working on my ALevel course work, for this project I have decided to make a game centred around managing a restaurant. This 
+  
+  I am currently working on my ALevel course work, for this project I have decided to make a game centred around managing a restaurant. This 
   Learning Unity
   
 EPQ
-I am currently working on an EPQ about the impacts of AI on the younger generations. This research will help me understand the new technologies entering our world and its impacts, positives and consequences. This will help me have better footing and understanding when entering the tech world.
+
+I am currently working on an EPQ about the impacts of AI on the younger generations. This research will help me understand the new technologies entering our world and its impacts, positives and consequences. This will help me have better footing and understanding when entering the tech world. This project will help me achieve my goals as I will understand the issues and uses for AI, as its a new technology that will impact all lives, I want to make judgement on its use.
 
 
 Previous projects:
+
   Animonopoly -https://github.com/BHASVIC-ryancheung24/animalshared
     This was a group project based on a modified version of Monopoly, this game helped me understand working in a group better and the collaberation that comes with it 
     
   Hotel Kashique
-    This was another group project which introduced me to the basics of C and working in a group
+    This was another group project which introduced me to the basics of C and working in a group. As group we worked together to create a project that mimicked a hotel check in and check out menu. By doing this I developed my C skills in general but also my skills in handling 1D and 2D arrays. We had to use 2D arrays in order to store strings in the array, this is an example of what I had to learn in order to develop this program, it also shows my ability to rapidly learn and adapt to a problem in order to solve it. 
 
 Java
-  I completed a Java course with BHASVIC this helped me understand the fundamentals of OOP which is an important pillar of computer science and programming as a whole. This understanding has made me more confident in working in a mkre professional environment.https://github.com/BHASVIC-ryancheung24/Java
+  I completed a Java course with BHASVIC this helped me understand the fundamentals of OOP which is an important pillar of computer science and programming as a whole. This understanding has made me more confident in working in a more professional environment where data security, encapsulation and inheritance is used more often.https://github.com/BHASVIC-ryancheung24/Java
 
 
 
@@ -48,10 +51,12 @@ Qualifications, certifications and work experience
        - Maths B
        - Computer Science B
   - Trips
-       - Evolve 25, this trip was full of different brands that are paving the way in the tech world, many of them experimenting with new AI and technologies. This gave me an insite into the commerical industry and what a career in tech may look like.    
+       - Evolve 25, this trip was full of different brands that are paving the way in the tech world, many of them experimenting with new AI and technologies. This gave me an insite into the commerical industry and what a career in tech may look like.   
   
   - Sussex Uni informatics work experience
      - I completed Sussex Uni's Informatics and Engeneering work experience program, heres a quick sumery:
+   
+
  Monday 
 Introduction to AI and CNNs testing out of leaning machine.
 
@@ -71,8 +76,7 @@ Thursday
 We put our wings into a physical wind tunnel, this gave me experience with real world machinery.
 
 Friday
-We worked on a real world TV studio working with professional cameras and technologies such as LED walls that have been used in shows such as The Mandalorian
-
+We worked on a real world TV studio working with professional cameras and technologies such as LED walls that have been used in shows such as The Mandalorian. I found it surprising that TV and Media links closely to computer science as it requires many programs to run the show and it also requires everyone working on a show to collaborate and work together similar to what we do in computer science projects.
     
 
 <!--
