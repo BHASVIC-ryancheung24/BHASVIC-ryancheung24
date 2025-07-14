@@ -38,7 +38,10 @@ Qualifications, certifications and work experience
        - 7 Maths
        - 8 Geography
        - 8 Spanish
-       -777 in triple science
+       - 777 in triple science
+       - 7 Statistics
+       - 7 English
+       
          
   - Predicted Alevels
        - Geography A
