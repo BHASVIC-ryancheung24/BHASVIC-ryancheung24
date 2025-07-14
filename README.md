@@ -28,7 +28,7 @@ Previous projects:
     This was another group project which introduced me to the basics of C and working in a group
 
 Java
-  I completed a Java course with BHASVIC this helped me understand the fundamentals of OOP which is an important pillar of computer science and programming as a whole. This understanding has made me more confident in working in a mkre professional environment.
+  I completed a Java course with BHASVIC this helped me understand the fundamentals of OOP which is an important pillar of computer science and programming as a whole. This understanding has made me more confident in working in a mkre professional environment.https://github.com/BHASVIC-ryancheung24/Java
 
 
 
