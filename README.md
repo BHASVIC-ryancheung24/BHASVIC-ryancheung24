@@ -14,7 +14,9 @@ The Future:
 Current Projects:
   Coursework Game
   
-  I am currently working on my ALevel course work, for this project I have decided to make a game centred around managing a restaurant. This 
+  I am currently working on my ALevel course work, for this project I have decided to make a game centred around managing a restaurant. This will help be develope my problem solving skills and give me a look knto what working on an actual project is like.
+
+  
   Learning Unity
   
 EPQ
